@@ -1,7 +1,7 @@
 # Amazon-Scraper
-Scrape Amazon's products, prices and ratings by using this scraper
+Scrape Amazon's products details by using this scraper! :muscle:
 
-This Python project is a web scraper designed to fetch product data from Yahoo Finance. By default, it extracts the top ten tickers from NASDAQ's index, but you can edit the Python project in order to choose the specific tickers you need. The scraper gathers information such as the ticker symbol, current stock price, change in price, and percentage change in price. It output's a CSV file containing the mentioned information. 
+It gathers data such as product description, price, rating, and product links. To scrape the desired product's info, simply modify the 'search_term' variable and execute the script. The scraper will generate a CSV file containing all the aforementioned details tailored to your search term (product).
 
 The project utilizes Beautiful Soup for HTML parsing, Selenium for web automation, and Pandas for data manipulation.
 
