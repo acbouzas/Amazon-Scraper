@@ -9,4 +9,4 @@ In case Github doesn't display the Jupyter Notebook please enter here: https://n
 
 ![amazon_screenshot](https://github.com/acbouzas/Amazon-Scraper/blob/main/images/AmazonScreenshot.png)
 
-![df_example](https://github.com/acbouzas/Amazon-Scraper/blob/main/images/screenshots.png)
+![df_example](https://github.com/acbouzas/Amazon-Scraper/blob/main/images/dfscreenshot.png)
